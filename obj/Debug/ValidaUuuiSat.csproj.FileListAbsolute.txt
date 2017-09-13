@@ -1,0 +1,18 @@
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\bin\Debug\ValidaUuuiSat.exe.config
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\bin\Debug\ValidaUuuiSat.exe
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\bin\Debug\ValidaUuuiSat.pdb
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.Form1.resources
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.Properties.Resources.resources
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.csproj.GenerateResource.Cache
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.exe
+c:\users\erik\documents\visual studio 2015\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.pdb
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\bin\Debug\ValidaUuuiSat.exe.config
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\bin\Debug\ValidaUuuiSat.exe
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\bin\Debug\ValidaUuuiSat.pdb
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.csprojResolveAssemblyReference.cache
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.Form1.resources
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.Properties.Resources.resources
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.csproj.GenerateResource.Cache
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.exe
+G:\projects\Projects\ValidaUuuiSat\ValidaUuuiSat\obj\Debug\ValidaUuuiSat.pdb
